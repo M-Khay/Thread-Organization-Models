@@ -1,0 +1,18 @@
+List of resources requested by Client 1 are:1000
+Its a safe state!!!
+Now Available Resources:0020
+
+List of resources requested by Client 2 are:0010
+Its a safe state!!!
+Now Available Resources:0010
+
+List of resources requested by Client 3 are:1000
+Requested number of resources are more than available
+
+List of resources requested by Client 4 are:0000
+Its a safe state!!!
+Now Available Resources:0010
+
+List of resources requested by Client 5 are:0010
+Its an unsafe state!!!
+
